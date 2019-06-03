@@ -6,7 +6,7 @@ management:
   security:
     enabled: false
 
-logging.level.io.pivotal: DEBUG
+logging.level.io.pivotal: INFO
 
 greeting:
   displayFortune: true
