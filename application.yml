@@ -1,3 +1,6 @@
+# Typically written in waterfall style
+# Application.yml will serve as an application wide configuration setting.
+
 security.basic.enabled: false
 
 management.security.enabled: false
